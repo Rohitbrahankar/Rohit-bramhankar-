@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **Spring -boot  & API-based backend projects**
-- 🌱 Learning **Docker**, **Cloud**, and advanced Django
+- 🌱 Learning **Docker**, **Cloud**, and advanced Java framework 
 - 💬 Ask me about **Java, Spring boot , REST APIs**
 - 📫 How to reach me: rohitbramhankar2107@gmail.com
 
